@@ -1,0 +1,4 @@
+#Sat Feb 10 19:28:31 ICT 2018
+base.0=/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/transforms/dexMerger/debug/19
+path.0=classes.dex
+renamed.0=classes.dex

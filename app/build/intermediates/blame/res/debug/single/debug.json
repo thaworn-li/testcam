@@ -1,0 +1,2066 @@
+[
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_record_state.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/record_state.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_qi_dai.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/qi_dai.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_meida_manager_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/meida_manager_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_camera_play_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/camera_play_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_add_grey.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/add_grey.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_hd.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_hd.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo7.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo7.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cb_login_checked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cb_login_checked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide4_lock.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide4_lock.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_picturevideoactivity_video.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_picturevideoactivity_video.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_bottom_new.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_bottom_new.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_scanwqr.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_scanwqr.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_picture_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/picture_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_sd_text.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_sd_text.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ir_off.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ir_off.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_bg_guid.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_bg_guid.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_vedio_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_vedio_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycamera_btn_fosbaby_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycamera_btn_fosbaby_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_vedio_manager.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/vedio_manager.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_wifi_lock.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_wifi_lock.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_camera_outline.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/camera_outline.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_zoomadd.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/zoomadd.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_cancel_selector.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_hd_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_hd_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo14.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo14.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_wifi_conn_3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_wifi_conn_3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_iv_input_line2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/iv_input_line2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_stop_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_stop_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_dialog_zhong.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_dialog_zhong.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_loading.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/loading.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_know.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_know.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ada_camerasearch_camera.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ada_camerasearch_camera.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_cancle.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_cancle.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_messageactivity_msgbtn_text.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_messageactivity_msgbtn_text.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_btn_oper_bg.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_btn_oper_bg.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_back_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_back_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_account_pwd.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/account_pwd.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_preset_ok.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_preset_ok.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_land_ll.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_land_ll.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_email.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_email.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_choosed.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/choosed.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_msg.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_msg.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_suoxiao2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/suoxiao2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_camera_online.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/camera_online.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_login_input.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_login_input.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_tran.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/tran.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_cycle.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/progress_cycle.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_login.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/login.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_dialog_zhongxia.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_dialog_zhongxia.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_ptz.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_ptz.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_close.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_close.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_account_add.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/account_add.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_search_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_search_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_login_guid_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_login_guid_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_scanqractivity_light.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_scanqractivity_light.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_undeploy_raido.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_undeploy_raido.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_erweima.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_erweima.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_tiaoguo.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/tiaoguo.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo12.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo12.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_audio.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_audio.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_wifi_conn_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_wifi_conn_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash14.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash14.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_close_guide_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_close_guide_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_grey_right_arrow.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/grey_right_arrow.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo5.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo5.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_delete.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_delete.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_deploy_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_deploy_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_login_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/login_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_lock.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_lock.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide_4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide_4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_input_login_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_input_login_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_jump_dark_blue.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/jump_dark_blue.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_progressdialog.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_progressdialog.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_strong4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_strong4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_known.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_known.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_logout_text.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_logout_text.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_scanqr_light_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/scanqr_light_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_camera_play.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/camera_play.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_line.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_line.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_dialog_zuixia_zuo.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_dialog_zuixia_zuo.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_video_play.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/video_play.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_guide_view_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/guide_view_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycamerasipcamera_scanqr.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycamerasipcamera_scanqr.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_shang2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/shang2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_wifi_conn_5.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_wifi_conn_5.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_edit.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/edit.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_top_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_top_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_addcam.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_addcam.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_detail_bottom_shadow.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/detail_bottom_shadow.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_online.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_online.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_choosed_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/choosed_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_xia2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/xia2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_video.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_video.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_motiondetect_arrow.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_motiondetect_arrow.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo10.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo10.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash12.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash12.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_reload.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_reload.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_undeploy.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_undeploy.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_volume_thumb_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/volume_thumb_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_ir_on_raido.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_ir_on_raido.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_lan.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/lan.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_close.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_close.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_erweima.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/erweima.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_account_del_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/account_del_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide1_top.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide1_top.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycamerasipcamera_back.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycamerasipcamera_back.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_about_unselected.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/about_unselected.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_whole_hover_orange.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_whole_hover_orange.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ir_auto.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ir_auto.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_adacamera_cameraplay.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_adacamera_cameraplay.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_audio_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_audio_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_livedemos_unselected.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/livedemos_unselected.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_input_login.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_input_login.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_deploy.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_deploy.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_scanqr_getpic_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/scanqr_getpic_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cb_help_checked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cb_help_checked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_help_known.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_help_known.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_email_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_email_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_sd_raido.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_sd_raido.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_whole_hover_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_whole_hover_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_white_left_arrow.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/white_left_arrow.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_dialog_zuixia_you_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_dialog_zuixia_you_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_cycle_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/progress_cycle_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_item_click.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_item_click.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_preset_add.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_preset_add.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_help_content.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_help_content.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_text_blue_white.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_text_blue_white.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_scanqr_getpic.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/scanqr_getpic.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ada_camerasearch_camera.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ada_camerasearch_camera.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_addcamera_1_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_addcamera_1_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mima_check_box.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mima_check_box.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_loading_en.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/loading_en.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_login.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_login.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycameras_btn_cancel.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycameras_btn_cancel.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_fosbaby_ok.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_fosbaby_ok.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_dialog_line.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/dialog_line.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_deploy_raido.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_deploy_raido.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_ptz.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_ptz.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_et_bg.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/et_bg.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ref_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ref_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_zoomreduce.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_zoomreduce.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_fosbaby_btn_next.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_fosbaby_btn_next.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cancle_erweima.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_cancle_erweima.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycamera_btn_cancel.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycamera_btn_cancel.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_text_gray_blue.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_text_gray_blue.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_help_btn_text_orange_gray.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_help_btn_text_orange_gray.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_strong1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_strong1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_checked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/checked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide3_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide3_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_sd_text_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_sd_text_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash8.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash8.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide4_dun.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide4_dun.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_help_arrow.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_help_arrow.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_bg_down_line.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_bg_down_line.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_conn_fail.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/conn_fail.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_hd_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_hd_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_right_ok.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_right_ok.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_about_arrow.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_about_arrow.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash7.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash7.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ir_on.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ir_on.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_text_orange_white.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_text_orange_white.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_bottom_hover_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_bottom_hover_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_right_ok_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/right_ok_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_black_tran.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_black_tran.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_switch.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_switch.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_middle.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_middle.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_color_white_blue.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_color_white_blue.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_close_guide.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_close_guide.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_infrare.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_infrare.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_right_ok.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/right_ok.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_scanwlan_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_scanwlan_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash6.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash6.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_spinner.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_spinner.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycamera_btn_ipcamera_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycamera_btn_ipcamera_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide_2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide_2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_hd_text.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_hd_text.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_wifidialog_buttonadd_textcolor.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_wifidialog_buttonadd_textcolor.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ir_on_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ir_on_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_cancle_erweima.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_cancle_erweima.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_conn_bg.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/conn_bg.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_strong3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_strong3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ptz_control_left.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ptz_control_left.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_next.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_next.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_middle_new.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_middle_new.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_ok_selector.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/ok_selector.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_ok.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_ok.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_infrare.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_infrare.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cb_help_unchecked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cb_help_unchecked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_commit1.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_commit1.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_ptz_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_ptz_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_fosbaby_cancel.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_fosbaby_cancel.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_infrare_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_infrare_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_guide_select.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_guide_select.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_msg_unread.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/msg_unread.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_line_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_line_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_refresh.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_refresh.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_middle_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_middle_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_sd.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_sd.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_whole_orange.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_whole_orange.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_wifidialog_cancle.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_wifidialog_cancle.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_mic.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_mic.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mima_check.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mima_check.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycamerasipcamera_scanlan.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycamerasipcamera_scanlan.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_preset_reduce.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_preset_reduce.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_deploy.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_deploy.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_preset_add.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_preset_add.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_scanqractivity_getpic.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_scanqractivity_getpic.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_fosbaby_btn_finish.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_fosbaby_btn_finish.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_userpwd_input.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/userpwd_input.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ptz_control.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ptz_control.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_text_input.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_text_input.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_live_surface_default_view.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/live_surface_default_view.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_tiaoguo_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/tiaoguo_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_finish.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_finish.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_close_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_close_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide1_tran.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide1_tran.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycameras_btn_fosbaby.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycameras_btn_fosbaby.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_line.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_line.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_right_ok_new.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/right_ok_new.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_login_right_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/login_right_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_commit.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_commit.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_account_name.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/account_name.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cb_login_unchecked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cb_login_unchecked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_checkbox_login.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_checkbox_login.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_divider_line_new.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/divider_line_new.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ada_camerasearch_bg.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ada_camerasearch_bg.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_volume_thumb.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_volume_thumb.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_whole.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_whole.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_ir_auto_raido.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_ir_auto_raido.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_bg_down_line_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_bg_down_line_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_logo_login.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/logo_login.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_hd.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_hd.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_bottom.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_bottom.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_grey_text.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_grey_text.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_carmera.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_carmera.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_wifi_grey.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_wifi_grey.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_checked_blue.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/checked_blue.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cancel_2.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cancel_2.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_cancle_erweima_btntext_color.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_cancle_erweima_btntext_color.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_msgbtn.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_msgbtn.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_uncheck_gray.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/uncheck_gray.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_line.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_line.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_jump_light_blue.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/jump_light_blue.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_cufajiange_shang.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_cufajiange_shang.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_tiaoguo.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/tiaoguo.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_top_hover_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_top_hover_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_whole_hover.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_whole_hover.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_bottom.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_strong2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_strong2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide3_1_add.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide3_1_add.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_carmera.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_carmera.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ptz_control_center.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ptz_control_center.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo13.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo13.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_sd_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_sd_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycamera_btn_ipcamera.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycamera_btn_ipcamera.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_fosbaby_btn_back.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_fosbaby_btn_back.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_wifi_conn_2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_wifi_conn_2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycameras_btn_ipcam.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycameras_btn_ipcam.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_back.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash15.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash15.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ptz_control_down.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ptz_control_down.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_pre.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_pre.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_text_input_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/text_input_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_tiaoguo.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_tiaoguo.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_default_video.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/default_video.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_clear.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_clear.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_check_bg.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_check_bg.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_erweima_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/erweima_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide4_text.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide4_text.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cancle_erweima_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_cancle_erweima_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_connecting_cycle.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/connecting_cycle.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_refresh_list_pull_down.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/refresh_list_pull_down.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_nightversion_mode.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_nightversion_mode.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_pre_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_pre_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_hd.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_hd.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_zoomadd_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/zoomadd_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_grey.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_grey.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_bottom_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_bottom_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_white_right_arrow.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/white_right_arrow.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_bottom_hover.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_bottom_hover.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_account_del.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_account_del.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_meida_manager.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/meida_manager.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ok_1.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ok_1.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ok_2.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ok_2.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_wifi_conn_4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_wifi_conn_4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide3_xia.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide3_xia.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mainactivity_mycameras.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mainactivity_mycameras.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_checkbox.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_checkbox.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_xia1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/xia1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_dialog_zuixia_zuo_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_dialog_zuixia_zuo_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_run_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_run_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_wifi.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_wifi.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mima_uncheck.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mima_uncheck.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_about_text.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_about_text.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_color_btn_readprotocol.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_color_btn_readprotocol.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycameras_unselected.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycameras_unselected.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo8.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo8.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_msgitem.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_msgitem.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_guide_view_4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/guide_view_4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_delete.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_delete.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_play_stop.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_play_stop.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_login.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_login.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_msg_camera_dot.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_msg_camera_dot.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_audio.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_audio.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_account_add.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_account_add.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_unchecked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/unchecked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo15.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo15.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_msg.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/msg.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_scanqr_light.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/scanqr_light.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_switch_off.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/switch_off.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_msg_circle.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/msg_circle.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_whole_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_whole_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ptz_control_right.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ptz_control_right.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_blue_left_arrow.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/blue_left_arrow.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_wifi_conn_6.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_wifi_conn_6.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_night_vision_time.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_night_vision_time.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_cruise.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_cruise.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_mic.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_mic.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_whole_new.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_whole_new.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_whole.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_whole.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_conn_cancle.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/conn_cancle.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_stop.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_stop.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycamera_btn_fosbaby.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycamera_btn_fosbaby.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_edittext.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_edittext.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_undeploy_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_undeploy_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_camera_setting.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/camera_setting.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_iv_input_line.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/iv_input_line.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_seek_bar_bg.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_seek_bar_bg.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_video.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/video.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_top_new.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_top_new.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_input.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_input.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_ipc_title.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_ipc_title.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cancel.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_cancel.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cb_rember_unchecked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cb_rember_unchecked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_cruise.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_cruise.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_picturevideoactivity_picture.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_picturevideoactivity_picture.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_run_new.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_run_new.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_scanwqr_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_scanwqr_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_preset_run.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_preset_run.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_delete_gray.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/delete_gray.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide3_2_chose.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide3_2_chose.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ada_camerasearch_camera_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ada_camerasearch_camera_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_listitem.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/listitem.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_progressdialog_cycle.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/progressdialog_cycle.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo11.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo11.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_cancle_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_cancle_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_account_add_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/account_add_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_progressdialog_cancel.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/progressdialog_cancel.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_clear_hover.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_clear_hover.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_search.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_search.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash13.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash13.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mainactivity_about.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mainactivity_about.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_position.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_position.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo6.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo6.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cancel_1.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cancel_1.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_strong5.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_strong5.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide1_bottom.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide1_bottom.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipcamera_scanwlan.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipcamera_scanwlan.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_audio.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_audio.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide_3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide_3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_preset_reduce_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_preset_reduce_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_deploy.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_deploy.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_navigate_btn.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_navigate_btn.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_refresh_list_release_up.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/refresh_list_release_up.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_hd_text_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_hd_text_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash5.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash5.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_alrm_show.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_alrm_show.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_warning.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_warning.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_next_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_next_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_baby_music_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_baby_music_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_play_next.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_play_next.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_volume_thumb.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/volume_thumb.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_dialog_shang.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_dialog_shang.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycameras_btn_addcam.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycameras_btn_addcam.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_radiobutton.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_radiobutton.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_vedio.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_vedio.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_livedemos_selected.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/livedemos_selected.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ir_off_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ir_off_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_lan_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/lan_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_foscam_default.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/foscam_default.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_black_tran2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_black_tran2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/spinner_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_zoomreduce.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/zoomreduce.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_wifidialog_add.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_wifidialog_add.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_dot_line.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/dot_line.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_text_input.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/text_input.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_next.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_next.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ada_camerasearch_bottom_bg.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ada_camerasearch_bottom_bg.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_listitem_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/listitem_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_default_photo.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/default_photo.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_blue.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_blue.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_addcamera_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_addcamera_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_top.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_top.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_add_blue.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/add_blue.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide3_3_comp.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide3_3_comp.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_cruise_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_cruise_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ok_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ok_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_carmera_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_carmera_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide3_2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide3_2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/layout_activity_new.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/layout/activity_new.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_sd.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_sd.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_common_bg.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/common_bg.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_account_del.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/account_del.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_ir_off_raido.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_ir_off_raido.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_preset_cancle.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_preset_cancle.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_run.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_run.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_vedio_manager_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/vedio_manager_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycameras_selected.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycameras_selected.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide3_3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide3_3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_login_guid.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_login_guid.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ptz_control_up.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ptz_control_up.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/spinner.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_commit.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_commit.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ada_camerasearch_top_bg.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ada_camerasearch_top_bg.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_hd.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_hd.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_lan.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_lan.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_zoomadd.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_zoomadd.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_fosbaby_2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/fosbaby_2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_top.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_top.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_baby_music.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_baby_music.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_end.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_end.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_dot.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/dot.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_btn_hd_raido.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_btn_hd_raido.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ok.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ok.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_adacamera_addcamera.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_adacamera_addcamera.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_tiaoguo_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/tiaoguo_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_picture.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/picture.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_pw_help_check_box.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_pw_help_check_box.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_shang1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/shang1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_video_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/video_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_dialog_zuixia_you.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_dialog_zuixia_you.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ref.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ref.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_pwd.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_pwd.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycamera_bottom_shadow.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycamera_bottom_shadow.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_wifidialog_buttoncancle_textcolor.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_wifidialog_buttoncancle_textcolor.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_color_btn_login.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_color_btn_login.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_nextstep_dark.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/nextstep_dark.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_mic_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_mic_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_commit_hover.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_commit_hover.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_jump_gray.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/jump_gray.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_mycamera_btn_cancel_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/mycamera_btn_cancel_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_ok_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_ok_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_file_dialog_1.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/file_dialog_1.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_bg_whole_orange.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_bg_whole_orange.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_nextstep_light.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/nextstep_light.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mainactivity_livedemos.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mainactivity_livedemos.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_ipc_deploy_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/ipc_deploy_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash11.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash11.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cruise_stop.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cruise_stop.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_jump_textcolor.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_jump_textcolor.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_middle.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_middle.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cb_rember_checked.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cb_rember_checked.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_guide_view_2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/guide_view_2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ir_auto_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_ir_auto_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_cruise_stop_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/cruise_stop_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_video_manager.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_video_manager.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_next_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_next_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_demo3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/demo3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_password_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_password_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_password.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_password.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_preset_reduce.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_preset_reduce.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_login_guid.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_login_guid.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_preset_add_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_preset_add_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_switch_on.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/switch_on.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_msg_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/msg_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cancel_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_cancel_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_zoomreduce_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/zoomreduce_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_about_selected.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/about_selected.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_guide_normal.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/icon_guide_normal.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash10.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash10.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_mycamerasipcamera_ref.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_mycamerasipcamera_ref.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_guide_view_3.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/guide_view_3.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_ipc_baby_music.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_ipc_baby_music.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_middle_hover_new.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_middle_hover_new.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_preset_run_press_new.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/preset_run_press_new.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_cancle_guide.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_cancle_guide.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_middle_hover.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_middle_hover.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_play_pre.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_play_pre.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_guide4.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_guide4.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_add.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_add.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_addcam_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_addcam_press.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_cruise_stop.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_cruise_stop.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_login_right.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/login_right.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_delete_blue.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/delete_blue.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_bg.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_bg.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_known_press.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_known_press.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_messageactivity_msgbtn_text2.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_messageactivity_msgbtn_text2.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_color_white_blue_2.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_color_white_blue_2.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_help.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_help.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable_a_sel_checkbox_common.xml.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable/a_sel_checkbox_common.xml"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_camera_shadow.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_camera_shadow.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_wifi_lock_hover.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/wifi_lock_hover.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_play_flash2.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/play_flash2.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_top_hover.9.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/bg_top_hover.9.png"
+    },
+    {
+        "merged": "/Users/zenithsnaps/Downloads/Ezlink2/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_finish_press.png.flat",
+        "source": "/Users/zenithsnaps/Downloads/Ezlink2/app/src/main/res/drawable-hdpi/btn_finish_press.png"
+    }
+]

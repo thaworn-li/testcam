@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/bg_top" android:state_checked="true" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/bg_top" android:state_pressed="true"/>
+    <!-- pressed -->
+    <item android:drawable="@drawable/bg_top" android:state_checked="true"/>
+    <!-- focused -->
+    <item android:drawable="@drawable/bg_top_hover"/>
+    <!-- default -->
+
+</selector>
